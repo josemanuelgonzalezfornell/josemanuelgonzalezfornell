@@ -1,3 +1,13 @@
+###
+
+<h1 align="center">Hello world! I'm José Manuel 👋</h1>
+
+###
+
+<p align="center">Data lover!! 📊❤️</p>
+
+###
+
 <div align="center">
   <img height="150" src="https://media3.giphy.com/media/JrXas5ecb4FkwbFpIE/giphy.gif?cid=ecf05e47xwqduu36uq1fef4rdrbuc9k19cmdcehboe92bzsh&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
 </div>
@@ -8,14 +18,6 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </div>
-
-###
-
-<h1 align="center">Hello world! I'm José Manuel 👋</h1>
-
-###
-
-<p align="center">Data lover!! 📊❤️</p>
 
 ###
 
