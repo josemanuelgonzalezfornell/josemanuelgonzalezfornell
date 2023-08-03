@@ -73,7 +73,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png"
         height="40" alt="scikit learn logo" href="https://scikit-learn.org/" />
     <img width="12" />
-    <img src="https://media.licdn.com/dms/image/C560BAQG2-bElRVrSqw/company-logo_200_200/0/1547450366259?e=2147483647&v=beta&t=iHQkvteyw3xGd7phJgTrQS8hy18lxmpWrfaoeEbXP_g"
+    <img src=""
         height="40" alt="keras logo" href="https://keras.io/" />
     </div>
 
