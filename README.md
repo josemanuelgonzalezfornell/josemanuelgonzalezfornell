@@ -73,15 +73,15 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png"
         height="40" alt="scikit learn logo" href="https://scikit-learn.org/" />
     <img width="12" />
-    <img src=""
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png"
         height="40" alt="keras logo" href="https://keras.io/" />
     </div>
 
-    ###
-
-    <div align="center">
+###
+    
+<div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=josemanuelgonzalezfornell&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"
             height="150" alt="stats graph" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josemanuelgonzalezfornell&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2"
             height="150" alt="languages graph" />
-    </div>
+</div>
